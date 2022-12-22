@@ -1,0 +1,17 @@
+
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/transapp-visualizador-velocidades.iml
+tmp/.gitkeep
+tmp/agency.txt
+tmp/calendar.txt
+tmp/feed_info.txt
+tmp/routes.txt
+input/shapes.txt
+input/stop_times.txt
+input/stops.txt
+input/trips.txt
+tmp/log.log

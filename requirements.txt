@@ -1,0 +1,6 @@
+typer==0.7.0
+utm==0.7.0
+pandas==1.5.2
+plotly==5.11.0
+matplotlib==3.6.2
+shapely==2.0.0
